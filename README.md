@@ -1,5 +1,7 @@
 # In THe Sky
 
+![DEMO](inthesky.gif)
+
 A simple 2D platformer game made in **GameMaker** using custom logic for movement, gravity and collisions.
 The game uses 16x16 pixel assets inspired by Minecraft textures.
 

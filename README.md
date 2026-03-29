@@ -5,16 +5,6 @@
 A simple 2D platformer game made in **GameMaker** using custom logic for movement, gravity and collisions.
 The game uses 16x16 pixel assets inspired by Minecraft textures.
 
-## Features
-
-- Smooth horizontal movement
-- Gravity system
-- Adjustable jump height
-- Collision system using move_and_collide
-- Spike death system
-- Out-of-bounds restart
-- Sprite flipping based on direction
-
 ## Movement System
 
 The player uses:
@@ -46,6 +36,10 @@ The level restarts if:
 2. ZIP
 - Download the zip file `In the Sky.zip`
 - run the executable
+
+### OR
+
+Open the attached [itch.io link](https://valymnd-bot.itch.io/in-the-sky)!
 
 And u are all set!
 
